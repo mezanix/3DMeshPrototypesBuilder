@@ -1,0 +1,15 @@
+{
+    "name": "Neckkeys.Utilities",
+    "references": [
+        "GUID:4d6737a1f79609542ad7daedf2a38f45"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Neckkeys.3DMeshPrototypesBuilder",
+    "references": [
+        "GUID:e21028d66616155429d7e6b2a768f06a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

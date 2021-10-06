@@ -1,0 +1,19 @@
+{
+    "name": "Neckkeys.3DMeshPrototypesBuilderEditor",
+    "references": [
+        "GUID:9f9dc152af209d24ba9cf52edd1ad19b",
+        "GUID:e21028d66616155429d7e6b2a768f06a",
+        "GUID:e20110b11e3a6d149bcfde066c42109f"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
